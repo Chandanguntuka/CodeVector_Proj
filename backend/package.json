@@ -1,4 +1,7 @@
 {
+   "engine":{
+      "node": "22.13.1"
+    },
   "name": "codevector-products-backend",
   "version": "1.0.0",
   "private": true,
