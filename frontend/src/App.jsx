@@ -6,7 +6,7 @@ import Status from './components/Status'
 import Pager from './components/Pager'
 import Login from './components/Login'
 
-const API_BASE = '/api'
+const API_BASE = 'https://codevector-proj.onrender.com/api'
 const STORED_AUTH_KEY = 'codevector_auth'
 
 function readStoredAuth() {
